@@ -1,6 +1,6 @@
 class TestExternalScript
 {
-  public static HelloWorld() {
+  static function HelloWorld() {
 	return "Hello World";
   }
 }
